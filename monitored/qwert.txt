@@ -1,7 +1,0 @@
-
-admin: admin@123
-doctor1: medcare2025
-nurseA: shift@9am
-tech_support: fixit#77
-visitor: guest123
-QWERT 
