@@ -1,0 +1,33 @@
+1. Patient Name: Asha Reddy
+Age: 45
+Diagnosis: Type 2 Diabetes
+Prescription: Metformin 500mg, twice daily
+Doctor ID: D102
+
+2. Patient Name: Ravi Kumar
+Age: 60
+Diagnosis: Hypertension
+Prescription: Amlodipine 5mg, once daily
+Doctor ID: D108
+
+3. Patient Name: Meena Ayer
+Age: 29
+Diagnosis: Migraine
+Prescription: Sumatriptan 50mg as needed
+Doctor ID: D105
+
+4. Patient Name: Arjun Das
+Age: 52
+Diagnosis: Coronary Artery Disease
+Prescription: Atorvastatin 20mg, Aspirin 75mg
+Doctor ID: D110
+
+5.Patient Name: Priya Nair
+Age: 34
+Diagnosis: Hypothyroidism
+Prescription: Levothyroxine 100mcg, once daily
+Doctor ID: D1011
+
+5.abgf
+
+

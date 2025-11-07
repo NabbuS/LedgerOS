@@ -1,0 +1,19 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore generated ledger logs
+ledger_log.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+/build/
